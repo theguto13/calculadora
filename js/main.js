@@ -289,7 +289,7 @@ $(document).on('click', '#fe', function() {
     }
     else {
         fe = true;
-        this.style.borderBottom = "3px solid red";
+        this.style.borderBottom = "3px solid #31a252";
     }
 });
 
@@ -306,7 +306,7 @@ $(document).on('click', '#hyp', function() {
     }
     else {
         hyp = true;
-        this.style.borderBottom = "3px solid red";
+        this.style.borderBottom = "3px solid #31a252";
         $('#sen').html("<span>sinh</span>");
         $('#cos').html("<span>cosh</span>");
         $('#tan').html("<span>tanh</span>");
