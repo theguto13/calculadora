@@ -118,3 +118,8 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+#rodape{
+    color: #31a252;
+    margin: 10px 2px;
+}
